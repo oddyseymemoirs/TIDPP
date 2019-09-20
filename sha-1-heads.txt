@@ -1,0 +1,18 @@
+Basic: HEAD 4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+C#: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+C++: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+Delphi: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+Java: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+JavaScript: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+Pascal: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+Python: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+Ruby: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+Swift: HEAD  4d4a7e8c449bf44c5b3afe46f8c30ed74d2e46d4
+
+
+
+
+
+
+
+
